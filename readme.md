@@ -1,5 +1,5 @@
 # Geojsons-to-images --- WIP
-Gera uma imagem do mapa a partir de um GeoJson.
+Gera a imagem de um mapa a partir de um arquivo GeoJson.
 
 ## Instalação
 
